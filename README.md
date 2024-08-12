@@ -2,9 +2,7 @@
 
 <g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> My name is Maxim Avvakukov
 
-<g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> I am 34 years old
-
-<g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> I have been studying Web development 2 years. Completed Junior Frontend-developer courses at the [Result School](https://result.school/products/junior-js)
+<g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> I am frontend-developer
 
 <hr/>
 
